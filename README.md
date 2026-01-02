@@ -39,7 +39,8 @@ This project addresses these challenges by providing an analytics-based framewor
 
 * Tableau: Interactive dashboarding to visualize regional performance and customer behaviour.
 
-
+<img width="1470" height="956" alt="Python" src="https://github.com/user-attachments/assets/f81dca1a-05d9-4717-8d7e-8eb62f843694" />
+<img width="1470" height="956" alt="SQL" src="https://github.com/user-attachments/assets/0f6f6ce3-5902-417b-a00c-5bbf32707113" />
 
 ## Key Insights 📊
 
@@ -145,4 +146,7 @@ Month-on-month growth appears inconsistent at an aggregate level due to mid-year
     * Nice: May–Sep
     * Antibes: Jul–Aug
     This ensures maximum ROI on promotional efforts.
+
+<img width="1470" height="956" alt="Tableau" src="https://github.com/user-attachments/assets/05fc543d-dde4-45b1-a7a5-b2f13c84efc9" />
+
 
